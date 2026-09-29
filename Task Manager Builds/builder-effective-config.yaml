@@ -1,0 +1,16 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.taskmanager
+productName: Task Manager
+files:
+  - filter:
+      - dist/**/*
+      - dist-electron/**/*
+win:
+  target: nsis
+mac:
+  target: dmg
+linux:
+  target: AppImage
+electronVersion: 43.0.0

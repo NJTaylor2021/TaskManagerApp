@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build / packaging output
+Task Manager Builds/
+
+# Env and logs
+.env
+.env.*
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

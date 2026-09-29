@@ -1,0 +1,17 @@
+button
+{
+    background-color:cadetblue;
+    padding: 8px;
+    margin-right: 8px;
+}
+
+label
+{
+    margin-right: 6px
+}
+
+input, select
+{
+    padding: 8px;
+    margin-bottom: 10px;
+}

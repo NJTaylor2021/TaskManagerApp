@@ -1,0 +1,12 @@
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+th, td
+{
+    border: 4px dashed rgb(255, 255, 255);
+    padding: 10px;
+}
